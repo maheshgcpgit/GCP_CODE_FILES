@@ -1,0 +1,27 @@
+<customers>
+  <customer>
+    <customer_id>1</customer_id>
+    <first_name>John</first_name>
+    <last_name>Doe</last_name>
+    <email>john.doe@example.com</email>
+  </customer>
+  <customer>
+    <customer_id>2</customer_id>
+    <first_name>Alice</first_name>
+    <last_name>Smith</last_name>
+    <email>alice.smith@example.com</email>
+  </customer>
+  <customer>
+    <customer_id>3</customer_id>
+    <first_name>Bob</first_name>
+    <last_name>Johnson</last_name>
+    <email>bob.johnson@example.com</email>
+  </customer>
+  <customer>
+    <customer_id>4</customer_id>
+    <first_name>Eve</first_name>
+    <last_name>Wilson</last_name>
+    <email>eve.wilson@example.com</email>
+  </customer>
+  <!-- Add more customer records as needed -->
+</customers>
